@@ -1,5 +1,7 @@
 <h1 align="center">Tutoriales un poco Otakus with 💛 by TheDemoEffect</h1>
 
+![Banner main](images/README/readme-banner-main.png)
+
 En este repositorio encontrarás todas las prácticas que se realizan para Tiktok y YouTube sobre Vanilla JS, CSS, y HTML.
 
 - Los tutoriales en formato de video los podrás encontrar en [Tiktok | richirrim](https://www.tiktok.com/@richirrim) o en mi perfil de YouTube.
