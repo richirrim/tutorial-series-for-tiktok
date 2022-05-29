@@ -10,5 +10,6 @@ En este repositorio encontrarás todas las prácticas que se realizan para Tikto
 | Proyecto | Descripción | Link al repo |
 |:------ |:-------------:| -----:|
 | **⚡POKEDEX - Landing Page** | Proyecto final - **completo (✔️)** |[🎁 Enlace al proyecto](https://github.com/richirrim/pokedex-website)|
+|**⚡TheDemoEffect Boilerplate**| Estructura sencilla para empezar a maquetar cualquier web estática. Usaremos este boilerplate como base para el proyecto de la POKEDEX. | [🎁 Enlace al proyecto](https://github.com/richirrim/TheDemoEffect-Boilerplate)
 | **⚡POKEDEX UI - Template** | Si solo te interesa la parte de consultas a la PokeApi y no quieres diseñar la UI desde cero, entonces, solo descárgate la plantilla y empieza a tirar código. |[🎁 Enlace al proyecto](https://github.com/richirrim/pokedex-ui-template)
 
